@@ -4,6 +4,6 @@ It also allows user to send and receive fake tokens to other users.
 
 To run on local machine: 
 
-"""
+```
 npm run start
-"""
+```
